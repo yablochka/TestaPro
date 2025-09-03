@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1752167521210",
+    "username": "faxriyy",
+    "email": "Faxriyy@example.com",
+    "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "level": "Mutaxassis",
+    "createdAt": "2025-07-10T17:12:01.213Z",
+    "testProgress": {
+      "currentLevel": "Mutaxassis",
+      "completedTests": [],
+      "canTakeTest": true
+    },
+    "token": "ff502ecc2e50ebe69cbb3d5d9d44d5ac592874e114785ccb8c07b686049905d4"
+  },
+  {
+    "id": "1752167928993",
+    "username": "Facee",
+    "email": "ace@www.com",
+    "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "level": "Mutaxassis",
+    "createdAt": "2025-07-10T17:18:48.993Z",
+    "testProgress": {
+      "currentLevel": "Mutaxassis",
+      "completedTests": [],
+      "canTakeTest": true,
+      "retryAvailableAt": 1753872696883
+    },
+    "token": "a7fb1124974a7a657dafbf50b4a083832e025d37ca2633ef4c6b33fe3cff493b"
+  },
+  {
+    "id": "1752168335890",
+    "username": "Facee",
+    "email": "facee@www.com",
+    "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "level": "Mutaxassis",
+    "createdAt": "2025-07-10T17:25:35.891Z",
+    "testProgress": {
+      "currentLevel": "Mutaxassis",
+      "completedTests": [],
+      "canTakeTest": true
+    },
+    "token": "e9283273d1558040f8ec5ab17dff8b374afdbb8762bf1e1c775140b2e22d7887"
+  },
+  {
+    "id": "1752169231160",
+    "username": "fara",
+    "email": "fara@www.com",
+    "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "level": "Mutaxassis",
+    "createdAt": "2025-07-10T17:40:31.161Z",
+    "testProgress": {
+      "currentLevel": "Mutaxassis",
+      "completedTests": [],
+      "canTakeTest": true
+    },
+    "token": "d33351499177493fdf9b29a29247a823a4e856263bac779c15e3731d24ca75b3"
+  },
+  {
+    "id": "1752170308590",
+    "username": "yatoo",
+    "email": "yatoo@www.com",
+    "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "level": "Mutaxassis",
+    "createdAt": "2025-07-10T17:58:28.590Z",
+    "testProgress": {
+      "currentLevel": "Mutaxassis",
+      "completedTests": [],
+      "canTakeTest": true
+    },
+    "token": "d22dcec964c50ae73336aa098b19597c16e5d43ba913863874683f92b04c9be6"
+  }
+]
