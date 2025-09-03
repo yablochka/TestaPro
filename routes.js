@@ -37,7 +37,7 @@ async function handleRequest(req, res) {
             await handleSubmitTest( req, res);
         } else if (method === 'GET' && path === '/testa2/tests/progress') {
             handleGetTestProgress(req, res);
-        } else if (method === 'POST' && path === '/testa2/clear-users') {
+        } else if (method === 'GET' && path === '/testa2/clear-users') {
             handleClearUsers(req, res);
         } else if (method === 'GET' && path === '/testa2/') {
             sendResponse(res, 200, {
